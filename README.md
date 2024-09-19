@@ -22,3 +22,5 @@ Note: The code has some user-defined functions that will be useful while making 
 
 Sometimes, the installation of the surprise library, which is used to build recommendation systems, faces issues in Jupyter. To avoid any issues, it is advised to use Google Colab for this project.
 
+As data is very huge, it can be downloaded here below:
+https://drive.google.com/file/d/1WtLoroC5cufPqxbmozjVVubdJlaDLak0/view?usp=drive_link
